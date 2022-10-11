@@ -1,0 +1,29 @@
+
+
+p {
+  color:pink
+}
+
+#content {
+  background-color:pink;
+  padding:20px;
+  margin:10px;
+  border:solid 1px black;
+  border-radius:20px;
+}
+
+#bobby {
+  background-color:black;
+  padding:20px;
+  margin:10px;
+  border:solid 1px purple;
+  border-radius:20px;
+}
+
+#bread {
+  background-color:black;
+  padding:20px;
+  margin:10px;
+  border:solid 1px purple;
+  border-radius:20px;
+}

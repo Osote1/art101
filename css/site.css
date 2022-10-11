@@ -1,0 +1,74 @@
+
+
+html {
+  background-color: #CDB4DB;
+}
+
+p {
+  color:white;
+  font-family: serif;
+  font-size: 25px;
+}
+
+h1 {
+  width: 516px;
+  margin: auto;
+  text-align: center;
+  color:white;
+  background-color:#FFC8DD;
+  padding:15px;
+  border:solid 2px #FFAFCC;
+  border-radius:10px;
+  font-family: serif;
+  font-size: 50px;
+}
+
+#infobox {
+  width:450px;
+  margin-left: 292px;
+  margin-bottom: 130px;
+  margin-top: 50px;
+  outline: solid 2px #FFAFCC;
+  outline-width: 15px;
+  background-color:#FFC8DD;
+  text-align:center;
+  padding: 17px;
+}
+
+#ramblesofanidiot {
+  width: 497px;
+  text-align: center;
+  margin-left: 890px;
+  margin-top: -826px;
+  margin-bottom: 60px;
+  outline: solid 2px #FFAFCC;
+  outline-width: 15px;
+  background-color: #FFC8DD;
+  padding: 20px;
+}
+
+#linktime {
+  margin-top: 171px;
+  margin-left: 9px;
+}
+
+a:link {
+  background-color: pink;
+  color: hotpink;
+
+}
+
+a:visited {
+background-color: white;
+  color: pink;
+}
+
+a:hover, a:active {
+  background-color: white;
+    color: pink;
+}
+
+audio {
+    width: 300px;
+    height: 51px;
+}
