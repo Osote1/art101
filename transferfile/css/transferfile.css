@@ -12,12 +12,30 @@ p {
   color: white;
 }
 
+#boringinfobox {
+  margin: 45px;
+  margin-bottom: -2px;
+  margin-top: 1px;
+  margin-left: 4px;
+  font-size: 25px;
+  width: 466px;
+  background-color: #FFC8DD;
+  padding: 23px;
+  font-weight: bold;
+}
+
 #beeandpuppycatimage {
   background-color: #FFC8DD;
-  width: 530px;
-  padding: 15px;
+  width: 559px;
+  padding: 17px;
+  margin-left: 535px;
+  margin-top: -412px;
 }
 
 #beeandpuppycatsummary {
-  color: white
+  color: white;
+  margin-top: -368px;
+  width: 300px;
+  margin-left: 252px;
+  font-size: 18px
 }
