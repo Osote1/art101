@@ -1,0 +1,39 @@
+
+
+h1{
+  width: 933px;
+}
+
+h2{
+  font-size: 30px;
+  background-color: #FFC8DD;
+  width:165px;
+  border: solid 3px #FFAFCC;
+}
+
+h3{
+  font-size: 30px;
+  background-color: #FFC8DD;
+  width: 132px;
+  border: solid 3px #FFAFCC;
+}
+
+h4{
+  font-size: 30px;
+  background-color:#FFC8DD;
+  width:115px;
+  border: solid 3px #FFAFCC;
+}
+
+p{
+  color: pink;
+  font-size: 50px;
+  background-color: white;
+  width: fit-content
+}
+
+#challenge {
+  text-align: left;
+  margin-left: 36px;
+  margin-top: -38px;
+}
