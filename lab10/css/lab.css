@@ -1,0 +1,33 @@
+html {
+  background-color: #CDB4DB;
+}
+
+h1 {
+  background-color:#FFC8DD;
+  border:solid 6px #FFAFCC;
+  font-size: 50px;
+  width: 656px;
+  margin-top: -134px;
+  font-family: Brush Script MT, cursive;
+  color: white;
+  text-shadow: -1px 1px 2px black;
+}
+
+#biggestchallenge {
+  margin-left: 4px;
+  margin-top: -76px;
+  background: #FFC8DD;
+  width: fit-content;
+}
+
+#results {
+  background: #FFC8DD;
+  width: 318px;
+}
+
+#output {
+  background-color:#FFC8DD;
+  width: fit-content;
+  font-size: 25px;
+  margin-top: 30px;
+}
