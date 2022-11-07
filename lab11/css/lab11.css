@@ -1,0 +1,57 @@
+
+html{
+  background-color: #CDB4DB;
+  width:
+}
+
+
+#challenges{
+  background-color: #FFC8DD;;
+  border: 1px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  word-wrap: normal;
+}
+
+#problems{
+  background-color: #FFC8DD;;
+  border: 1px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  word-wrap: normal;
+}
+
+#results{
+  background-color: #FFC8DD;;
+  border: 1px solid black;
+  padding: 10px;
+  width: 200px;
+  height: 200px;
+  word-wrap: normal;
+}
+
+h1{
+  background-color: #FFC8DD;
+  border:solid 4px #FFAFCC;
+  width: 963px;
+  font-size: 100px;
+  font-family: "Brush Script MT";
+  color: white;
+  text-shadow: -1px 1px 2px black;
+  margin-top: -120px;
+}
+
+#challenges{
+  width: 3009px;
+}
+
+#problems{
+  width: 517px;
+}
+
+#picture{
+  margin-left: -45px;
+  margin-top: -107px;
+}
