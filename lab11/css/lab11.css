@@ -1,7 +1,6 @@
 
 html{
   background-color: #CDB4DB;
-  width:
 }
 
 #challenges{
@@ -9,8 +8,7 @@ html{
   background-color: #FFC8DD;
   border: 1px solid black;
   padding: 10px;
-  width: 200px;
-  height: 200px;
+  width: 100%;
 }
 
 
