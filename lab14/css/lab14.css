@@ -1,0 +1,50 @@
+body{
+  text-align: center;
+  background-image: url(https://i.etsystatic.com/8245719/r/il/ee03ea/3920941036/il_1588xN.3920941036_9g5u.jpg);
+}
+
+#content{
+  all: initial:
+}
+
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 25px;
+}
+
+p{
+font-size: 15px;
+background-color: #f0cedf;
+padding: 1%;
+text-align: center;
+}
+
+h1{
+  background-color: #ffd4f6;
+  border: 3px solid #FFAFCC;;
+  padding: 1%;
+  font-family: "Futuara";
+  font-weight: bolder;
+  border-left-style: 5px solid black;
+  margin-left: 39%;
+  width: fit-content;
+  color: #a85d7f;;
+  text-decoration: underline dotted #a85d7f; 2px;
+  text-decoration-thickness: 2px;
+  margin-top: 20px;
+
+}
+
+h2{
+  background-color: beige;
+  color: #997e73;
+  padding: 1%;
+  font-family: "Futuara";
+  text-shadow: -1px 1px 2px #453530;
+}
+
+#image{
+  margin-top: -39px;
+  margin-right: 40px;
+}
