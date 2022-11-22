@@ -1,0 +1,54 @@
+*{
+  margin: 0;
+  padding: 0;
+  font-size: 20px;
+  margin-top: -60px;
+  text-align: center;
+}
+
+html{
+  background-image: url(https://pbs.twimg.com/media/Du4YmNHWsAI8YnT?format=jpg&name=large);
+}
+
+h1{
+  background-color: #bfa795;
+  border: 3px solid #bd9173;
+  width: fit-content;
+  padding: 1%;
+  font-family: "Brush Script MT";
+  font-size: 50px;
+  color:#614839;
+  text-shadow: 2px 2px #3d312c;
+  margin-left: 704px;
+}
+
+h2{
+  background-color: #6e4030;
+  border: 3px solid #361b14;
+  padding: 1%;
+  width: fit-content;
+  margin-left: 770px;
+  margin-top: 2px;
+}
+
+#problems{
+  margin-left: 14px;
+}
+
+#results{
+  margin-left: 18px;
+}
+
+p{
+  margin-top: -25px;
+  background-color: white;
+  padding: 14px;
+}
+
+#activate{
+  margin-right: 49px;
+}
+
+#output{
+  margin-bottom: 2px;
+}
